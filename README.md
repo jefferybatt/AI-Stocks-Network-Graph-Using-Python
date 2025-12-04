@@ -15,7 +15,7 @@ The visualization was generated in Python with `networkx` and `matplotlib`.
 
 Below is the rendered network graph (`Network Graph Stocks.png`) showing all tickers and their connections:
 
-![Stock Network Graph](Network%20Graph%20Stocks.png)
+![Stocks Network Graph](Stocks%20Network%20Graph.png)
 
 *Green nodes* represent **sectors**, *blue nodes* represent **industries**, and *orange nodes* represent **stocks**.
 
