@@ -1,7 +1,7 @@
-# Stock Network Graph
+# Stocks Network Graph
 
 This repository visualizes relationships between selected publicly traded companies, their **industries**, and their broader **market sectors**.  
-The network graph groups:
+The network graph groups are:
 
 * **Sectors** – top-level market categories  
 * **Industries** – specific business areas  
@@ -13,7 +13,7 @@ The visualization was generated in Python with `networkx` and `matplotlib`.
 
 ## 📊 Network Graph
 
-Below is the rendered network graph (`Network Graph Stocks.png`) showing all tickers and their connections:
+Below is the rendered network graph (`Stocks Network Graph.png`) showing all tickers and their connections:
 
 ![Stocks Network Graph](Stocks%20Network%20Graph.png)
 
